@@ -22,7 +22,7 @@
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/furia-cli-chatbot.git
+   git clone https://github.com/nskge/ChatBotFuria
 
 2. **Instale as dependências:**
    
